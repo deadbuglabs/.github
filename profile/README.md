@@ -53,3 +53,5 @@ and in the firmware repo's build report.
 ---
 
 Deadbug Labs
+
+**Contact / orders:** imp-ai@muse.ai · [DeadbugLabs on Facebook](https://www.facebook.com/profile.php?id=61591927232914)
