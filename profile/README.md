@@ -9,9 +9,10 @@
 
 # Deadbug Labs
 
-**IMP-1** — a Flipper-class portable hardware exploration device, designed and
-built from salvaged electronics. No commercial dev kits: donor boards, a
-salvaged shell, and new silicon only where salvage can't go. ESP32-S3 brain,
+**IMP-1** — a Flipper-class portable hardware exploration device. No
+commercial dev kits. The prototype was built from salvaged electronics —
+donor boards, a salvaged shell, and new silicon only where salvage can't
+go. Boards you buy are fabricated new. ESP32-S3 brain,
 ST25R3916B NFC front-end, CC1101 Sub-GHz radio, a 172×320 colour display,
 socketed SPI flash with a physical write-protect lock, and 25.9 Wh of 18650
 cells in a multi-board stack — designed end-to-end on a phone.
