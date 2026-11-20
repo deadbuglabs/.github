@@ -52,6 +52,7 @@ harness and five quality gates are in place.
 - **Site:** https://deadbuglabs.github.io/
 - **Firmware:** https://github.com/deadbuglabs/imp-1
 - **Facebook:** https://www.facebook.com/profile.php?id=61591927232914
+- **Hugging Face:** https://huggingface.co/Devilishcode — house models, the [IMP-VISION model sets](https://huggingface.co/Devilishcode/imp-vision-model-sets), and the [IMP-VISION demo Space](https://huggingface.co/spaces/Devilishcode/imp-vision)
 
 ## > the tools
 
