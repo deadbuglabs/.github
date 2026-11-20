@@ -24,13 +24,16 @@ option.
 ## > status
 
 `// 2026-11-20` — Firmware: clean build, 0 errors / 0 warnings, 12 tools.
-Boards: main board v11 targeted respin complete (19 → 18 unconnected
-nets, 0 clearance violations, 0 shorts); a v12 pass with the remaining
-escalation moves authorized is under way. NFC board DRC-clean, IR board
-routing done. Gate 3 (PCB integrity) has not passed yet. Nothing
+Boards: main board at 17 unconnected nets (0 clearance violations,
+0 shorts) after the v13 wider respin; the remaining nets are
+placement-sealed and the next-scope call is pending. NFC board
+DRC-clean, IR board routing done. Case v3.7 CAD complete and
+fit-checked. Gate 3 (PCB integrity) has not passed yet. Nothing
 fabricated yet.
 
 ## > sponsors
+
+<a href="https://www.pcbway.com"><img src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/240304/PCBWay10BadgeContestLOGOdownload.svg" alt="PCBWay" height="44"></a>
 
 **[PCBWay](https://www.pcbway.com)** — 3D-printing sponsor. PCBWay has
 granted Deadbug Labs a USD 30 3D-print credit (no expiry; it can split
@@ -45,7 +48,7 @@ catalog (Eyes / Brain / Ears / Voice), ready-made Light / Balanced / Max
 model sets, and questions answered by a local model on the phone. Primary
 lineup: the Qwen model family across all four roles. A Deadbug Labs house
 model is planned — a fine-tuned Brain that ships only after an eval
-harness and five quality gates are in place.
+harness and five quality gates are in place. The app and Brain also run as **Deadbug Local Cloud** — a self-hosted rig on our own server, models from Hugging Face: [github.com/deadbuglabs/local-cloud](https://github.com/deadbuglabs/local-cloud) · [huggingface.co/Devilishcode/deadbug-local-cloud](https://huggingface.co/Devilishcode/deadbug-local-cloud).
 
 ## > links
 
