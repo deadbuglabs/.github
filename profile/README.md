@@ -23,16 +23,19 @@ option.
 
 ## > status
 
-`// 2026-11-19` — Firmware: clean build, 0 errors / 0 warnings, 12 tools.
-Boards: main board v10 routing — braid re-lay pass complete (23 → 20
-unconnected nets, 0 clearance violations, 0 shorts); NFC board DRC-clean,
-IR board routing done. Gate 3 (PCB integrity) has not passed yet: the 20
-remaining nets are sealed at placement level, and a targeted hand
-micro-work pass is next. Nothing fabricated yet.
+`// 2026-11-20` — Firmware: clean build, 0 errors / 0 warnings, 12 tools.
+Boards: main board v11 targeted respin complete (19 → 18 unconnected
+nets, 0 clearance violations, 0 shorts); a v12 pass with the remaining
+escalation moves authorized is under way. NFC board DRC-clean, IR board
+routing done. Gate 3 (PCB integrity) has not passed yet. Nothing
+fabricated yet.
 
-Sponsorship: PCBWay has granted Deadbug Labs a USD 30 3D-print credit
-(no expiry; it can split across two orders). It is held until the boards
-are fabricated and fit-checked.
+## > sponsors
+
+**[PCBWay](https://www.pcbway.com)** — 3D-printing sponsor. PCBWay has
+granted Deadbug Labs a USD 30 3D-print credit (no expiry; it can split
+across two orders). It is held until the boards are fabricated and
+fit-checked, then it prints the cases.
 
 ## > new: IMP-VISION
 
